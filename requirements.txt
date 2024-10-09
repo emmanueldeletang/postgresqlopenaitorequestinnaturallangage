@@ -1,0 +1,6 @@
+python-dotenv
+openai
+config 
+psycopg2
+json
+flask
