@@ -122,8 +122,5 @@ cur.execute(
              )
 conn.commit()
 
-#UPDATE hager_events 
-#SET doc_vector = azure_openai.create_embeddings('text-embedding-ada-002', all_fields)
-#where categorie = 'Lesson Learned';
-#CREATE INDEX ON hager_events USING hnsw (doc_vector vector_ip_ops);
+
 
