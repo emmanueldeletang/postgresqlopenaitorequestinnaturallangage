@@ -24,7 +24,7 @@ sample code and application to generate query in postgresql langage based on nat
 - Activate virtual ennvironment: .venv\scripts\activate
 - Install required libraries: pip install -r requirements.txt
 - Replace keys with your own values in example.env
-- don't forget to have the model openAI one text-embbeding and one GPT ( can be 4.0 ,3.5 ) ...
+- don't forget to have the model openAI one text-embbeding- 2  and  GPT-4o
 - be sure the to have Configure OpenAI endpoint and key and activate te extension like explain here https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/generative-ai-azure-openai
 
 ## Demo script
